@@ -7,3 +7,4 @@ Git tracks changes of files.
 Change by github.com
 
 Creating a new branch is quick AND simple.
+add dev branch and test disable fast forward mode.
